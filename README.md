@@ -21,14 +21,10 @@ Este é um aplicativo de gerenciamento de conteúdos educativos, desenvolvido pa
 - **Frontend:** HTML5, Tailwind
 - **Backend:** PHP
 - **Banco de Dados:** MySQL
-- **Armazenamento de Conteúdos:** (Exemplo: Amazon S3, Google Drive API, etc.)
 
 ## Como Rodar o Projeto Localmente
 
 ### Requisitos
-
-- Node.js (ou outra tecnologia específica do seu backend)
-- Banco de dados configurado (exemplo: MongoDB, PostgreSQL)
-- (Outros requisitos específicos)
+- Banco de dados configurado (MySQL)
 
 ### Passos para Rodar
