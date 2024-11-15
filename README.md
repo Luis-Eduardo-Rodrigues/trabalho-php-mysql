@@ -18,7 +18,7 @@ Este é um aplicativo de gerenciamento de conteúdos educativos, desenvolvido pa
 
 ## Tecnologias Utilizadas
 
-- **Frontend:** HTML5, Tailwind
+- **Frontend:** HTML5, Tailwind CSS
 - **Backend:** PHP
 - **Banco de Dados:** MySQL
 
