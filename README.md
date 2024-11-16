@@ -26,3 +26,6 @@ Este é um aplicativo de gerenciamento de conteúdos educativos, desenvolvido pa
 
 ### Requisitos
 - Banco de dados configurado (MySQL)
+
+### Modelagem do Banco de Dados
+
