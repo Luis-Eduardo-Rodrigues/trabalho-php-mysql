@@ -29,4 +29,4 @@ Este é um aplicativo de gerenciamento de conteúdos educativos, desenvolvido pa
 
 ### Modelagem do Banco de Dados
 
-<img src="modelagem.PNG" width="300" height="300"/>
+<img src="modelagem.PNG"/>
