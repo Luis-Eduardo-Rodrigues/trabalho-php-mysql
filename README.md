@@ -31,3 +31,10 @@ Este é um aplicativo de gerenciamento de conteúdos educativos, desenvolvido pa
 
 <img src="modelagem.PNG"/>
 - "arquivo_conteudo" é do tipo longblob.
+
+### Imagens do projeto
+<img src="aluno.PNG"/>
+<p>Página do Aluno</p>
+<br>
+<img src="professor.PNG"/>
+<p>Página do Professor</p>
