@@ -14,7 +14,6 @@ Este é um aplicativo de gerenciamento de conteúdos educativos, desenvolvido pa
 
 ### Sistema de Login:
 - **Autenticação por credenciais:** Cada usuário (professor ou aluno) tem um login e senha próprios.
-- **Segurança:** Implementação de criptografia para proteger senhas e dados sensíveis.
 
 ## Tecnologias Utilizadas
 
@@ -34,7 +33,7 @@ Este é um aplicativo de gerenciamento de conteúdos educativos, desenvolvido pa
 
 ### Imagens do projeto
 <img src="login.PNG"/>
-##<p>Tela de Login</p>
+<p>Tela de Login</p>
 <img src="aluno.PNG"/>
 <p>Página do Aluno</p>
 <br>
@@ -42,5 +41,5 @@ Este é um aplicativo de gerenciamento de conteúdos educativos, desenvolvido pa
 <p>Página do Professor</p>
 
 ### Para usar no login:
--- aluno, aluno123
+-- aluno, aluno123 <br>
 -- professor, professor123
