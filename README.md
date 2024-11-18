@@ -36,7 +36,11 @@ Este é um aplicativo de gerenciamento de conteúdos educativos, desenvolvido pa
 <img src="login.PNG"/>
 ##<p>Tela de Login</p>
 <img src="aluno.PNG"/>
-##<p>Página do Aluno</p>
+<p>Página do Aluno</p>
 <br>
 <img src="professor.PNG"/>
-##<p>Página do Professor</p>
+<p>Página do Professor</p>
+
+### Para usar no login:
+-- aluno, aluno123
+-- professor, professor123
