@@ -28,8 +28,8 @@ Este é um aplicativo de gerenciamento de conteúdos educativos, desenvolvido pa
 
 ### Modelagem do Banco de Dados
 
-<img src="conceitual.PNG"/>
-<img src="logico.PNG"/>
+<img src="conceitual.png"/>
+<img src="logico.png"/>
 <img src="modelagem.PNG"/>
 - "arquivo_conteudo" é do tipo longblob.
 
